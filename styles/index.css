@@ -3,14 +3,14 @@
   /* Active Line Highlight support */
 }
 .editor .CodeMirror {
-  background-color: #FFFFFF;
+  background-color: #1f1f1f;
   color: #434C5E;
 }
 .editor .CodeMirror-scroll {
-  color: #434C5E;
+  color: #f8f8f8;
 }
 .editor .CodeMirror-gutters {
-  background-color: #FFFFFF;
+  background-color: #1f1f1f;
 }
 .editor .CodeMirror-linenumber {
   color: #4C566A;
